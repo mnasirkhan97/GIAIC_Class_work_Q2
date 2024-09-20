@@ -1,0 +1,102 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+} */
+/* .header{
+    background-color: rgb(197, 197, 238);
+    height: 60px;
+} */
+
+/* .header_items{
+    display: flex;
+    justify-content: flex-end;
+} */
+
+/* .header_items li a{
+    text-decoration: none;
+} */
+
+/* li{
+    text-decoration: none;
+} */
+
+/* .header{
+
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.navbar{
+    padding: 10px;
+}
+.navbar{
+    display: flex;
+    text-decoration: none;
+
+}
+
+.navbar ul li{
+    text-decoration: none;
+}
+
+.navbar ul li a{
+    justify-content: space-around;
+    text-decoration: none;
+
+}
+.btn{
+    width: 70px;
+    height: 30px;
+    padding: 10px;
+} */
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #f8f9fa;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.logo img {
+    max-width: 100%;
+    height: auto;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar ul li {
+    margin: 0 15px;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.navbar ul li a:hover {
+    color: #007bff;
+}
+
+.btn button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.btn button:hover {
+    background-color: #0056b3;
+}
