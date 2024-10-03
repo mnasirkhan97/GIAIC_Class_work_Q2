@@ -1,0 +1,15 @@
+Topics:
+
+//====> Client side:
+
+//====> Server side:
+
+//====> Latency:
+
+//====> API
+
+//====> Momoization 
+
+//====> Caching 
+
+//====> Data fetching 
