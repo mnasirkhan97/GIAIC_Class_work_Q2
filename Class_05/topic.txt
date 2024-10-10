@@ -1,0 +1,9 @@
+Topic:
+
+//====> States in React js
+
+//====> folder structure 
+
+//====> routes (nested routes & dynamic routes)
+
+//===> diff between App routes & page routes
