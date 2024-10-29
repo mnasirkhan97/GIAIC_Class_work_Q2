@@ -1,0 +1,19 @@
+===> 01 Figma
+https://www.figma.com/
+em, rem, px
+===> 02  Milestones
+
+//===> i
+Dear Students, We are sharing the Hackathon Milestone-Based Interactive Resume Builder document. The hackathon will start at 3:00 PM today, and you will have until 2:59 PM the next day to complete it. Please review the document carefully, as it contains all the important guidelines and requirements.
+
+https://bit.ly/hackathon-resume-builder
+
+Best of luck with your preparation!
+Governor House Team
+
+//===> ii
+This document is an optional resource designed for students who need extra preparation in HTML, CSS, JavaScript, TypeScript, Git, or basic design principles before starting the "Learn Modern Web Development using Next.js 13 in Baby Steps" in Q2. If you feel confident in your foundational skills, you can proceed directly to the main course materials. Otherwise, use this Launchpad to build a strong foundation and ensure your success in Q2.
+
+https://docs.google.com/document/d/1-dQWknTEZfZWAqeWGju0vyJaG4n7ltT8TtRa2Q3z8L0/
+
+Remember, every expert was once a beginner. Stay dedicated, seek support when needed, and believe in your ability to master these skills. Your future in web development starts here! 
