@@ -37,7 +37,7 @@ AGI is about achieving a certain level of intelligence in machines that resemble
 AGI can be seen as a potential pathway to the Singularity, but the Singularity encompasses much more than just the achievement of AGI—it includes the consequences and transformative changes that could arise from it.
 
 
-=================================> NLP, NLU & NLG <==================================
+=============================================> NLP, NLU & NLG <==============================================
 NLP, NLU, and NLG are all related concepts in the field of artificial intelligence and language processing. Here’s a breakdown of each:
 
 1. Natural Language Processing (NLP)
@@ -54,7 +54,7 @@ NLP is the overarching field that includes both NLU and NLG.
 NLU focuses on understanding language, while NLG focuses on generating language.
 Together, they enable more sophisticated interactions between humans and machines, making applications like chatbots and virtual assistants more effective and user-friendly.
 
-==========================> AI Agents <==========================
+==================================================> AI Agents <==================================================
 AI agents are systems designed to autonomously perform tasks or make decisions based on their environment and inputs. They can operate in various domains and utilize different levels of intelligence, from simple rule-based systems to advanced AI that incorporates machine learning. Here’s a closer look at AI agents:
 
 Types of AI Agents
