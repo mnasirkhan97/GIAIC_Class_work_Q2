@@ -2,11 +2,11 @@ import React from "react";
 
 function Navbar() {
   return (
-    <div>
+    <div className="bg-purple-400 h-[40px] flex justify-around items-center">
       <div>logo</div>
-      <div>
+      <div className="flex">
         <div>
-          <ul>
+          <ul className="flex">
             <li>About</li>
             <li>Services</li>
             <li>Contact</li>
