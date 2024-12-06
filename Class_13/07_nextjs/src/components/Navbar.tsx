@@ -13,7 +13,7 @@ function Navbar() {
           </ul>
         </div>
         <div className="space-x-3">
-          <button>Login</button>
+          <button className="">Login</button>
           <button>Register</button>
         </div>
       </div>
