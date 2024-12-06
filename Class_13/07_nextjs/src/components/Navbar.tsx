@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <div className="bg-purple-400 h-[40px] flex justify-around items-center">
       <div>logo</div>
-      <div className="flex space-x-10 gap-">
+      <div className="flex space-x-10 gap-5">
         <div>
           <ul className="flex space-x-3">
             <li>About</li>
