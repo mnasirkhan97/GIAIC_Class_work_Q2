@@ -1,0 +1,22 @@
+Class 18
+
+npx create-next-app@14.2.2
+nextjs content (https://github.com/panaverse/learn-nextjs)
+
+class work : 
+Topics
+1. React Form Validation
+2. react hook form (npm install react-hook-form)
+3. Authentication 
+4. Clerk JS (Library) npm install @clerk/nextjs
+5. Protective routes
+
+Home work : 
+
+
+
+(https://alijawwad001.atlassian.net/wiki/external/OWVkZTc1NjExMjU1NDljNmFkMGJhZTUxYmVmMWNmMzc)
+1. setup samity into practice hackathon
+2. setup sanity-magration 
+3. place .env 
+4. sanity schema first in your practice hackathon
